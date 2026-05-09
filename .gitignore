@@ -1,0 +1,6 @@
+.DS_Store
+.venv/
+__pycache__/
+*.pyc
+parsed_results_*.csv
+saturday_lotto_results_*.csv
