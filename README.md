@@ -1,4 +1,4 @@
-# Saturday Lotto Scraper
+# Australia Saturday Lotto Scraper
 
 A small Python scraper that can:
 
